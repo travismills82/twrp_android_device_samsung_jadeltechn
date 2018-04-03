@@ -36,3 +36,6 @@ PRODUCT_DEVICE := j7maxlte
 PRODUCT_BRAND := SAMSUNG
 PRODUCT_MODEL := sm-c7100
 PRODUCT_MANUFACTURER := SAMSUNG
+
+PRODUCT_COPY_FILES += \
+    device/samsung/j7maxlte/dt.img:dt.img
