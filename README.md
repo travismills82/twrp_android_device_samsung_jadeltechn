@@ -1,1 +1,0 @@
-twrp_samsung_jadeltechn
