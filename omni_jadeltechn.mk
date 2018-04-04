@@ -35,4 +35,4 @@ PRODUCT_MODEL := SM-C7100
 PRODUCT_MANUFACTURER := SAMSUNG
 
 PRODUCT_COPY_FILES += \
-    device/samsung/j7maxlte/dt.img:dt.img
+    device/samsung/jadeltechn/dt.img:dt.img
