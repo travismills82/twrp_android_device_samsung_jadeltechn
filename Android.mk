@@ -23,6 +23,9 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/omni_jadeltechn.mk
+
 ifneq ($(filter j7maxlte,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := $(call my-dir)

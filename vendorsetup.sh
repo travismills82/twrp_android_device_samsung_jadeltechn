@@ -1,1 +1,1 @@
-add_lunch_combo omni_j7maxlte-eng
+add_lunch_combo omni_jadeltechn-eng
